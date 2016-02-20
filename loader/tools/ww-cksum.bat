@@ -1,0 +1,1 @@
+gcc -s -O1 ww-cksum.c tools.c bn.c ec.c -lcrypto -o ww-cksum.exe
